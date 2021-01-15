@@ -1,4 +1,4 @@
-**Quick Sort**
+<h1>Quick Sort<h1>
 
 *This markdown text was written by English.
 
